@@ -2,7 +2,8 @@
 
 Welcome to the source files for **Cat and Bot**, a webcomic by [Tristen Grant](https://tristengrant.com/).
 
-This project is open and shared under a **Creative Commons Attribution-ShareAlike 4.0 License (CC BY-SA 4.0)**.  
+This project is open and shared under a **Creative Commons Attribution-ShareAlike 4.0 License (CC BY-SA 4.0)**.
+
 That means you are free to **share, remix, and translate** the comic, as long as you give credit and release any derivatives under the same license.  
 (See [LICENSE.md](LICENSE.md) for details.)
 
